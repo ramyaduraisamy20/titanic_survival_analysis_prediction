@@ -1,4 +1,5 @@
 Titanic Survival Analysis and Prediction
+
 This is a two-part data science project built on the Titanic dataset. Part 1 focused on exploratory data analysis — understanding who was on board, how survival varied across gender, class, fare, and age, and what the data revealed through visualisations. Part 2 took those insights further by building a machine learning classification model to predict survival.
 
 What's Inside
